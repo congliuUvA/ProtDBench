@@ -1,0 +1,11 @@
+[
+    {
+        "proteinChain": {
+            "sequence": "VSFPASVQLHTAVEMHHWCIPFSVDGQPAPSLRWLFNGSVLNETSFIFTEFLEPAANETVRHGCLRLNQPTHVNNGNYTLLAANPFGQASASIMAAFMDNP",
+            "label_asym_id": [
+                "A"
+            ],
+            "crop": "1-101"
+        }
+    }
+]
